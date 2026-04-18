@@ -1,0 +1,14 @@
+🟡 Nível 2 — Básico (Agregações)
+
+Objetivo: usar GROUP BY e funções agregadas
+
+Contar o total de imóveis
+Contar imóveis por país
+Contar imóveis por cidade
+Média de quartos por país
+Média de quartos por cidade
+Maior número de quartos registado
+Menor número de quartos registado
+Soma total de quartos
+Número de imóveis por ano
+Ano com mais registos

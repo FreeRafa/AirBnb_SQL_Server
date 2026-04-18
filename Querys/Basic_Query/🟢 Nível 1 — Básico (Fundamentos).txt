@@ -1,0 +1,14 @@
+🟢 Nível 1 — Básico (Fundamentos)
+
+Objetivo: dominar SELECT, WHERE, ORDER BY
+
+Listar todos os registos
+Listar apenas Cidade e Pais
+Listar imóveis localizados em Portugal
+Listar imóveis com mais de 2 quartos
+Listar imóveis com exatamente 3 quartos
+Ordenar os imóveis por ano (mais recente primeiro)
+Ordenar por número de quartos (crescente)
+Listar cidades únicas (DISTINCT)
+Filtrar imóveis listados após 2020
+Listar imóveis de um país específico (ex: Espanha)

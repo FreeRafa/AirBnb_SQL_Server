@@ -1,0 +1,15 @@
+CREATE DATABASE AirBnb
+GO
+
+CREATE TABLE Airbnb
+(
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Cidade NVARCHAR(100) NOT NULL,
+    Pais NVARCHAR(100) NOT NULL,
+    NumeroDeQuartos INT NOT NULL,
+    AnoListado INT NOT NULL,
+
+    CONSTRAINT CHK_Quartos CHECK (NumeroDeQuartos > 0),
+    CONSTRAINT CHK_Ano CHECK (AnoListado >= 2000)
+);
+GO

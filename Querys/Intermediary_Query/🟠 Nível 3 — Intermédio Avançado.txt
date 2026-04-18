@@ -1,0 +1,14 @@
+🟠 Nível 3 — Intermédio Avançado
+
+Objetivo: aplicar HAVING, filtros em grupos
+
+Países com mais de 2 imóveis
+Cidades com mais de 1 imóvel
+Países com média de quartos superior a 2
+Anos com mais de 2 imóveis listados
+Cidades com média de quartos maior que 3
+País com maior número de imóveis
+Cidade com menor número de imóveis
+Top 3 países com mais imóveis
+Top 5 cidades com mais quartos (soma)
+Ano com menor número de registos

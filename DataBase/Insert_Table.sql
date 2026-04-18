@@ -1,0 +1,22 @@
+
+INSERT INTO Airbnb (Cidade, Pais, NumeroDeQuartos, AnoListado) VALUES
+('Paris', 'França', 5, 2018),
+('Tóquio', 'Japão', 2, 2017),
+('Nova Iorque', 'EUA', 2, 2022),
+('Lisboa', 'Portugal', 3, 2021),
+('Porto', 'Portugal', 2, 2020),
+('Madrid', 'Espanha', 4, 2019),
+('Barcelona', 'Espanha', 1, 2023),
+('Londres', 'Reino Unido', 3, 2018),
+('Berlim', 'Alemanha', 2, 2017),
+('Roma', 'Itália', 5, 2016),
+('Milão', 'Itália', 1, 2022),
+('Amesterdão', 'Países Baixos', 2, 2021),
+('Bruxelas', 'Bélgica', 3, 2020),
+('Viena', 'Áustria', 4, 2019),
+('Praga', 'República Checa', 2, 2018),
+('Dublin', 'Irlanda', 3, 2023),
+('Copenhaga', 'Dinamarca', 2, 2022),
+('Estocolmo', 'Suécia', 1, 2021),
+('Oslo', 'Noruega', 2, 2020),
+('Helsínquia', 'Finlândia', 3, 2019);

@@ -1,0 +1,18 @@
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Backup files
+*.bak
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Visual Studio (se estiveres a usar)
+.vs/
+bin/
+obj/

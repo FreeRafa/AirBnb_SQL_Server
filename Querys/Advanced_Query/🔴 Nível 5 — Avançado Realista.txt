@@ -1,0 +1,14 @@
+🔴 Nível 5 — Avançado Realista
+
+Objetivo: simular cenários de projeto real
+
+Ranking de países por número de imóveis
+Ranking de cidades por número de imóveis
+Percentagem de imóveis por país
+Diferença entre número de quartos e média global
+Criar uma view com imóveis recentes (>= 2021)
+Criar uma view com estatísticas por país
+Encontrar outliers (imóveis com quartos muito acima da média)
+Agrupar dados por década (ex: 2010–2020)
+Criar uma query que simule um relatório (país + total + média quartos)
+Preparar query para dashboard (ordenada e limpa)

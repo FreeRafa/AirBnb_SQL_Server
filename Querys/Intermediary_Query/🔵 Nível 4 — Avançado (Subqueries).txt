@@ -1,0 +1,14 @@
+🔵 Nível 4 — Avançado (Subqueries)
+
+Objetivo: começar a pensar como analista
+
+Listar imóveis com número de quartos acima da média
+Listar imóveis do país com mais registos
+Listar cidades que têm mais imóveis que a média
+Encontrar o(s) país(es) com o máximo de imóveis
+Listar imóveis do ano mais recente
+Listar imóveis com quartos iguais ao máximo
+Mostrar cidades com imóveis acima da média de quartos global
+País com menor média de quartos
+Listar imóveis abaixo da média de quartos
+Ano com mais imóveis (usando subquery)
