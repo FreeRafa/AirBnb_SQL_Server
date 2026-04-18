@@ -31,8 +31,7 @@ airbnb-sql-project/
 ├── queries/
 │   ├── basic_queries.sql
 │   ├── intermediate_queries.sql
-│   ├── advanced_queries.sql
-│
+│   │
 └── README.md
 ```
 
@@ -79,7 +78,6 @@ Esta base de dados simula anúncios de imóveis do tipo Airbnb, permitindo anál
 
 * **Básico** → SELECT, WHERE, ORDER BY
 * **Intermédio** → GROUP BY, funções agregadas
-* **Avançado** → HAVING, subqueries, análises mais complexas
 
 ---
 
